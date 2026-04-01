@@ -40,5 +40,6 @@ I am a passionate Data Analytics student with hands-on experience in data analys
 * Gained real-world experience
 
 ## 🔗 Connect with Me
+Linkedin:https://www.linkedin.com/in/karthik-akuthota-915736356/
 email id:karthikakuthota94@gmail.com
 
